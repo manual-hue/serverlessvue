@@ -30,10 +30,11 @@ export default {
 }
 
 hgroup {
-text-align: center;
-font-family: 'Arial Bold';
+  text-align: center;
+  font-family: 'Arial Bold';
 }
+
 hgroup h1 {
-font-weight: bolder;
+  font-weight: bolder;
 }
 </style>
